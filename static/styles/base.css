@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-left: 12%;
+    padding-right: 12%;
+    background: linear-gradient(145deg, #0c002b, #2c002a);
+    color : #000000;
+}
+
+header {
+    background: linear-gradient(145deg, #9896fa, #000000);
+    padding: 12px;
+    border-radius: 8px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+}
+
+nav {
+    background: linear-gradient(145deg, #9896fa, #000000);
+    padding: 12px;
+    border-radius: 8px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+main {
+    padding: 24px;
+    flex: 1;
+    background: linear-gradient(145deg, #9896fa, #000000);
+
+}
+
+
+
+footer {
+    background: linear-gradient(145deg, #9896fa, #000000);
+}
